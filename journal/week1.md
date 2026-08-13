@@ -1,4 +1,4 @@
-# Journal - Week 6 (Mon 2025-09-01)
+# Journal - Week 1 (Mon 2026-08-13)
 
 **Position opened:** long 200 AAPL @ 230.15 (limit order).
 
